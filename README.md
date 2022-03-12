@@ -2,7 +2,7 @@
 ### 배민 장바구니 만들기
 ---
 #### Libraries
-  * State management : Redux-toolkit
+  * State management : Redux Toolkit
   * UI : Material UI
   * Routing : React Router
 ---
