@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/index.html/static/js/main.761041db.js",
-    "index.html": "/index.html/index.html",
-    "main.761041db.js.map": "/index.html/static/js/main.761041db.js.map"
+    "main.js": "/shopping-cart-study/static/js/main.761041db.js",
+    "index.html": "/shopping-cart-study/index.html",
+    "main.761041db.js.map": "/shopping-cart-study/static/js/main.761041db.js.map"
   },
   "entrypoints": [
     "static/js/main.761041db.js"
