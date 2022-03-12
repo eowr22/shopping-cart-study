@@ -12,8 +12,8 @@ ReactDOM.render(
   <React.StrictMode>
     <CssBaseline>
       <Provider store={store}>
-        <BrowserRouter>
-          <Routes>
+        <BrowserRouter basename={process.PUBLIC_URL}>
+          <Routes >
             <Route path="/" element={<App />} />
             <Route path="cart" element={<Cart />} />
           </Routes>
