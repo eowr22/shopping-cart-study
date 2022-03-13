@@ -7,4 +7,4 @@
   * Routing : React Router
 ---
 #### Deploy
-* https://eowr22.github.io/shopping-cart-study
+ * <a href="https://eowr22.github.io/shopping-cart-study" target="_blank">https://eowr22.github.io/shopping-cart-study</a>
